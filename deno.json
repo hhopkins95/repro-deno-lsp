@@ -1,0 +1,7 @@
+{
+  "nodeModulesDir": "auto",
+  "imports": {
+    "_langchain/": "./node_modules/langchain/",
+    "langchain": "npm:langchain@^0.3.6"
+  }
+}
